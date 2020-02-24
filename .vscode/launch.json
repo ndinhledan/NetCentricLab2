@@ -1,0 +1,13 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Server",
+            "request": "launch",
+            "mainClass": "Server",
+            "projectName": "net-centric_31f74f89",
+            "vmArgs": "--enable-preview"
+        },
+
+    ]
+}
